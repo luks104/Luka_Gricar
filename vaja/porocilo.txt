@@ -2,3 +2,4 @@
 znake +, kar pomeni dodane datoteke.
 2. Vse tri datoteke so bile oznacene kot "changed" (3 changed files) in zraven imajo rumene
 pikice v okvirju, kar pomeni spremenjene datoteke.
+3. Datoteka tmp.txt ima oznako "changed" in zraven ima rdec -, kar pomeni odstranjene datoteke.
